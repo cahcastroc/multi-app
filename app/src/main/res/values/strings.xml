@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aula2intent</string>
+    <string name="telefone">Telefone</string>
+    <string name="mapa">Mapa</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="c_mera">Câmera</string>
+    <string name="insira_um_telefone_local_ou_texto">Insira um telefone, local ou texto</string>
+</resources>
